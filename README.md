@@ -9,3 +9,5 @@
  https://github.com/hoangdh/ghichep-HA/blob/master/HAProxy/1.Phan-tich-hoat-dong-cua-HAProxy.md
  
  http://www.idz.vn/2018/06/phan-tich-hoat-ong-cua-haproxy.html
+ 
+ .. https://itlabvn.net/he-thong/huong-dan-cai-dat-cau-hinh-keepalived-va-haproxy-tren-centos
