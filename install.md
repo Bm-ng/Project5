@@ -66,7 +66,7 @@ vrrp_script chk_httpd {
         weight 2                        # 2 khi điều kiện đúng
 }
 vrrp_instance VI_1 {
-    state MASTER         # Máy còn tại đặt giá trị = BACKUP
+    state MASTER         # Máy còn lại đặt giá trị = BACKUP
     interface eth0
     virtual_router_id 51
     priority 100         # Máy còn lại đặt giá trị = 99; 
